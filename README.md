@@ -22,6 +22,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0002-add-two-numbers) |
 | [3462-vowels-game-in-a-string](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3462-vowels-game-in-a-string) |
 ## String
 |  |
@@ -42,6 +43,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0002-add-two-numbers) |
 | [0148-sort-list](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
@@ -71,4 +73,8 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0402-remove-k-digits) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
