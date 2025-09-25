@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0001-two-sum) |
+| [0120-triangle](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0120-triangle) |
 | [2486-most-frequent-even-element](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2486-most-frequent-even-element) |
 | [3194-find-words-containing-character](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3194-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -91,4 +92,8 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0025-reverse-nodes-in-k-group) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0120-triangle](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0120-triangle) |
 <!---LeetCode Topics End-->
