@@ -35,6 +35,7 @@
 | [0002-add-two-numbers](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0002-add-two-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0166-fraction-to-recurring-decimal) |
 | [1018-largest-perimeter-triangle](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1018-largest-perimeter-triangle) |
+| [1642-water-bottles](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1642-water-bottles) |
 | [3462-vowels-game-in-a-string](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3462-vowels-game-in-a-string) |
 ## String
 |  |
@@ -111,4 +112,8 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0643-maximum-average-subarray-i) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
