@@ -50,6 +50,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1904-second-largest-digit-in-a-string](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1904-second-largest-digit-in-a-string) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1933-number-of-different-integers-in-a-string) |
+| [1970-sorting-the-sentence](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1970-sorting-the-sentence) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [3194-find-words-containing-character](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3194-find-words-containing-character) |
 | [3462-vowels-game-in-a-string](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3462-vowels-game-in-a-string) |
@@ -87,6 +88,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0148-sort-list) |
 | [1018-largest-perimeter-triangle](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1018-largest-perimeter-triangle) |
+| [1970-sorting-the-sentence](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1970-sorting-the-sentence) |
 ## Merge Sort
 |  |
 | ------- |
