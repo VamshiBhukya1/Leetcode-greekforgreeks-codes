@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0001-two-sum) |
 | [0120-triangle](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0120-triangle) |
+| [0605-can-place-flowers](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0643-maximum-average-subarray-i) |
 | [0841-shortest-distance-to-a-character](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0841-shortest-distance-to-a-character) |
 | [1018-largest-perimeter-triangle](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1018-largest-perimeter-triangle) |
@@ -102,6 +103,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0409-longest-palindrome) |
+| [0605-can-place-flowers](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0605-can-place-flowers) |
 | [1018-largest-perimeter-triangle](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1018-largest-perimeter-triangle) |
 ## Monotonic Stack
 |  |
