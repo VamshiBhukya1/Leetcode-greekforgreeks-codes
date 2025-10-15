@@ -43,6 +43,7 @@
 | [0002-add-two-numbers](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0166-fraction-to-recurring-decimal) |
+| [0231-power-of-two](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0231-power-of-two) |
 | [1018-largest-perimeter-triangle](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1018-largest-perimeter-triangle) |
 | [1642-water-bottles](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1642-water-bottles) |
 | [3462-vowels-game-in-a-string](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3462-vowels-game-in-a-string) |
@@ -123,6 +124,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0025-reverse-nodes-in-k-group) |
+| [0231-power-of-two](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -145,4 +147,5 @@
 | ------- |
 | [0067-add-binary](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
