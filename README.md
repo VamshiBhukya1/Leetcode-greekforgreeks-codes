@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0166-fraction-to-recurring-decimal) |
 | [1018-largest-perimeter-triangle](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1018-largest-perimeter-triangle) |
 | [1642-water-bottles](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1642-water-bottles) |
@@ -48,6 +49,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0166-fraction-to-recurring-decimal) |
 | [0402-remove-k-digits](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0409-longest-palindrome) |
@@ -131,9 +133,14 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1642-water-bottles) |
 ## Matrix
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1791-richest-customer-wealth) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
