@@ -90,6 +90,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -143,4 +144,5 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
