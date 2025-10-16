@@ -14,6 +14,7 @@
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1791-richest-customer-wealth](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1791-richest-customer-wealth) |
+| [1975-minimum-distance-to-the-target-element](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2486-most-frequent-even-element](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2486-most-frequent-even-element) |
 | [3194-find-words-containing-character](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3194-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3242-count-elements-with-maximum-frequency) |
