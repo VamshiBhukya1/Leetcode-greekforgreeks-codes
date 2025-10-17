@@ -17,6 +17,7 @@
 | [1975-minimum-distance-to-the-target-element](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2486-most-frequent-even-element](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2486-most-frequent-even-element) |
 | [3194-find-words-containing-character](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3194-find-words-containing-character) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@
 | [1933-number-of-different-integers-in-a-string](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2486-most-frequent-even-element](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2486-most-frequent-even-element) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
