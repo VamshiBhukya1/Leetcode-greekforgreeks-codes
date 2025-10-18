@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0001-two-sum) |
+| [0078-subsets](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0120-triangle) |
 | [0605-can-place-flowers](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0643-maximum-average-subarray-i) |
@@ -150,7 +151,12 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0338-counting-bits) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
