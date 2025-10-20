@@ -17,6 +17,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1791-richest-customer-wealth](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1791-richest-customer-wealth) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1975-minimum-distance-to-the-target-element) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2486-most-frequent-even-element](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2486-most-frequent-even-element) |
 | [3194-find-words-containing-character](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -64,6 +65,7 @@
 | [1904-second-largest-digit-in-a-string](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1904-second-largest-digit-in-a-string) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1970-sorting-the-sentence](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1970-sorting-the-sentence) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [3194-find-words-containing-character](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3194-find-words-containing-character) |
 | [3462-vowels-game-in-a-string](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3462-vowels-game-in-a-string) |
@@ -146,6 +148,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1642-water-bottles) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Matrix
 |  |
 | ------- |
