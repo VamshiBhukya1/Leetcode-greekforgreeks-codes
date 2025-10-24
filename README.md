@@ -15,6 +15,7 @@
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1677-matrix-diagonal-sum](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1677-matrix-diagonal-sum) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1791-richest-customer-wealth](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1791-richest-customer-wealth) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1975-minimum-distance-to-the-target-element) |
@@ -158,6 +159,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1677-matrix-diagonal-sum](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1791-richest-customer-wealth) |
 ## Bit Manipulation
 |  |
