@@ -57,6 +57,7 @@
 | [0231-power-of-two](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0231-power-of-two) |
 | [1018-largest-perimeter-triangle](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1018-largest-perimeter-triangle) |
 | [1642-water-bottles](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1642-water-bottles) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [3462-vowels-game-in-a-string](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3462-vowels-game-in-a-string) |
 ## String
 |  |
