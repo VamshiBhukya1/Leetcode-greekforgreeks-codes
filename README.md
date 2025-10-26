@@ -68,6 +68,7 @@
 | [0409-longest-palindrome](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0409-longest-palindrome) |
 | [0841-shortest-distance-to-a-character](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0841-shortest-distance-to-a-character) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1764-maximum-repeating-substring](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1764-maximum-repeating-substring) |
 | [1904-second-largest-digit-in-a-string](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1904-second-largest-digit-in-a-string) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1970-sorting-the-sentence](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1970-sorting-the-sentence) |
@@ -147,6 +148,7 @@
 | ------- |
 | [0120-triangle](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0120-triangle) |
 | [0338-counting-bits](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0338-counting-bits) |
+| [1764-maximum-repeating-substring](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1764-maximum-repeating-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -183,4 +185,8 @@
 |  |
 | ------- |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+## String Matching
+|  |
+| ------- |
+| [1764-maximum-repeating-substring](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1764-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
