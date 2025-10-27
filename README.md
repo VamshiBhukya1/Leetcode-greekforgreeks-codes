@@ -56,6 +56,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0231-power-of-two) |
 | [1018-largest-perimeter-triangle](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1018-largest-perimeter-triangle) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1642-water-bottles](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [3462-vowels-game-in-a-string](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3462-vowels-game-in-a-string) |
@@ -68,6 +69,7 @@
 | [0409-longest-palindrome](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0409-longest-palindrome) |
 | [0841-shortest-distance-to-a-character](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0841-shortest-distance-to-a-character) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1764-maximum-repeating-substring](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1764-maximum-repeating-substring) |
 | [1904-second-largest-digit-in-a-string](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1904-second-largest-digit-in-a-string) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1933-number-of-different-integers-in-a-string) |
@@ -153,6 +155,7 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0643-maximum-average-subarray-i) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1430-find-the-k-beauty-of-a-number) |
 ## Simulation
 |  |
 | ------- |
