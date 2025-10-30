@@ -56,6 +56,7 @@
 | [0067-add-binary](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0231-power-of-two) |
+| [0556-next-greater-element-iii](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0556-next-greater-element-iii) |
 | [1018-largest-perimeter-triangle](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1018-largest-perimeter-triangle) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1642-water-bottles](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1642-water-bottles) |
@@ -68,6 +69,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0166-fraction-to-recurring-decimal) |
 | [0402-remove-k-digits](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0409-longest-palindrome) |
+| [0556-next-greater-element-iii](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0556-next-greater-element-iii) |
 | [0841-shortest-distance-to-a-character](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0841-shortest-distance-to-a-character) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -103,6 +105,7 @@
 | [0061-rotate-list](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0160-intersection-of-two-linked-lists) |
+| [0556-next-greater-element-iii](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0556-next-greater-element-iii) |
 | [0841-shortest-distance-to-a-character](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0841-shortest-distance-to-a-character) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Divide and Conquer
