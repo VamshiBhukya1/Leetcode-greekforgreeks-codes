@@ -25,6 +25,7 @@
 | [3194-find-words-containing-character](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3723-sum-of-good-numbers](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3723-sum-of-good-numbers) |
 ## Hash Table
@@ -42,6 +43,7 @@
 | [2486-most-frequent-even-element](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2486-most-frequent-even-element) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -62,6 +64,7 @@
 | [1642-water-bottles](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [3462-vowels-game-in-a-string](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3462-vowels-game-in-a-string) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
 | ------- |
