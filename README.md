@@ -21,6 +21,7 @@
 | [1975-minimum-distance-to-the-target-element](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2331-intersection-of-multiple-arrays](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2331-intersection-of-multiple-arrays) |
 | [2486-most-frequent-even-element](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2486-most-frequent-even-element) |
 | [3194-find-words-containing-character](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -41,6 +42,7 @@
 | [1933-number-of-different-integers-in-a-string](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2331-intersection-of-multiple-arrays](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2331-intersection-of-multiple-arrays) |
 | [2486-most-frequent-even-element](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2486-most-frequent-even-element) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -50,6 +52,7 @@
 ## Counting
 |  |
 | ------- |
+| [2331-intersection-of-multiple-arrays](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2331-intersection-of-multiple-arrays) |
 | [2486-most-frequent-even-element](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2486-most-frequent-even-element) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -128,6 +131,7 @@
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1970-sorting-the-sentence](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1970-sorting-the-sentence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2331-intersection-of-multiple-arrays](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2331-intersection-of-multiple-arrays) |
 ## Merge Sort
 |  |
 | ------- |
