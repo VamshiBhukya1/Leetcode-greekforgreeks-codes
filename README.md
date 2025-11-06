@@ -88,6 +88,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [3194-find-words-containing-character](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3194-find-words-containing-character) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3462-vowels-game-in-a-string](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Brainteaser
@@ -176,6 +177,7 @@
 | [0067-add-binary](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Matrix
 |  |
