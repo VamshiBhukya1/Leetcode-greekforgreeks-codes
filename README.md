@@ -24,6 +24,7 @@
 | [2331-intersection-of-multiple-arrays](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2331-intersection-of-multiple-arrays) |
 | [2350-find-closest-number-to-zero](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2350-find-closest-number-to-zero) |
 | [2486-most-frequent-even-element](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2486-most-frequent-even-element) |
+| [2639-separate-the-digits-in-an-array](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2639-separate-the-digits-in-an-array) |
 | [3194-find-words-containing-character](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -179,6 +180,7 @@
 | [0067-add-binary](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2639-separate-the-digits-in-an-array](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2639-separate-the-digits-in-an-array) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Matrix
