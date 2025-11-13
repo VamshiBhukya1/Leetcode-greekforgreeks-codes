@@ -34,6 +34,7 @@
 | [3582-find-indices-of-stable-mountains](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3582-find-indices-of-stable-mountains) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3723-sum-of-good-numbers](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3723-sum-of-good-numbers) |
+| [4107-find-missing-elements](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/4107-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4107-find-missing-elements](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/4107-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
@@ -137,6 +139,7 @@
 | [1970-sorting-the-sentence](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1970-sorting-the-sentence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2331-intersection-of-multiple-arrays](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2331-intersection-of-multiple-arrays) |
+| [4107-find-missing-elements](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/4107-find-missing-elements) |
 ## Merge Sort
 |  |
 | ------- |
