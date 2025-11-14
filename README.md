@@ -34,6 +34,7 @@
 | [3582-find-indices-of-stable-mountains](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3582-find-indices-of-stable-mountains) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3723-sum-of-good-numbers](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3723-sum-of-good-numbers) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [4107-find-missing-elements](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/4107-find-missing-elements) |
 ## Hash Table
 |  |
@@ -54,6 +55,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [4107-find-missing-elements](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/4107-find-missing-elements) |
 ## Counting
 |  |
@@ -62,6 +64,7 @@
 | [2486-most-frequent-even-element](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2486-most-frequent-even-element) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +79,7 @@
 | [1817-calculate-money-in-leetcode-bank](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [3462-vowels-game-in-a-string](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3462-vowels-game-in-a-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## String
 |  |
 | ------- |
@@ -221,4 +225,8 @@
 |  |
 | ------- |
 | [3616-make-array-elements-equal-to-zero](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3616-make-array-elements-equal-to-zero) |
+## Number Theory
+|  |
+| ------- |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3914-check-if-any-element-has-prime-frequency) |
 <!---LeetCode Topics End-->
