@@ -25,6 +25,7 @@
 | [2350-find-closest-number-to-zero](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2350-find-closest-number-to-zero) |
 | [2486-most-frequent-even-element](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2486-most-frequent-even-element) |
 | [2639-separate-the-digits-in-an-array](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2639-separate-the-digits-in-an-array) |
+| [2714-left-and-right-sum-differences](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2714-left-and-right-sum-differences) |
 | [3194-find-words-containing-character](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -226,6 +227,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [2714-left-and-right-sum-differences](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2714-left-and-right-sum-differences) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Number Theory
 |  |
