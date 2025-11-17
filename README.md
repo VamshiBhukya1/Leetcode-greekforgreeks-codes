@@ -13,6 +13,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1018-largest-perimeter-triangle) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1677-matrix-diagonal-sum](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1677-matrix-diagonal-sum) |
