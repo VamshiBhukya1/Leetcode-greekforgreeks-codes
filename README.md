@@ -27,6 +27,7 @@
 | [2486-most-frequent-even-element](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2486-most-frequent-even-element) |
 | [2639-separate-the-digits-in-an-array](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2639-separate-the-digits-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2714-left-and-right-sum-differences) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -80,6 +81,7 @@
 | [1430-find-the-k-beauty-of-a-number](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1642-water-bottles](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3462-vowels-game-in-a-string](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3462-vowels-game-in-a-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3914-check-if-any-element-has-prime-frequency) |
