@@ -36,6 +36,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3582-find-indices-of-stable-mountains) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3637-trionic-array-i](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3637-trionic-array-i) |
 | [3723-sum-of-good-numbers](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3723-sum-of-good-numbers) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [4058-compute-alternating-sum](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/4058-compute-alternating-sum) |
