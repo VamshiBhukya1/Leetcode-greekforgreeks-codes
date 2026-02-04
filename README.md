@@ -77,6 +77,7 @@
 | [0067-add-binary](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0231-power-of-two) |
+| [0504-base-7](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0504-base-7) |
 | [0556-next-greater-element-iii](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0556-next-greater-element-iii) |
 | [1018-largest-perimeter-triangle](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1018-largest-perimeter-triangle) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -93,6 +94,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0166-fraction-to-recurring-decimal) |
 | [0402-remove-k-digits](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0409-longest-palindrome) |
+| [0504-base-7](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0504-base-7) |
 | [0556-next-greater-element-iii](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0556-next-greater-element-iii) |
 | [0841-shortest-distance-to-a-character](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0841-shortest-distance-to-a-character) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1264-maximum-number-of-words-you-can-type) |
