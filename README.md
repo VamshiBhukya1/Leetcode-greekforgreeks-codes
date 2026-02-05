@@ -9,6 +9,7 @@
 | [0120-triangle](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0120-triangle) |
 | [0605-can-place-flowers](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0643-maximum-average-subarray-i) |
+| [0735-asteroid-collision](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0735-asteroid-collision) |
 | [0841-shortest-distance-to-a-character](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0841-shortest-distance-to-a-character) |
 | [1018-largest-perimeter-triangle](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1018-largest-perimeter-triangle) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
@@ -160,6 +161,7 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0402-remove-k-digits) |
+| [0735-asteroid-collision](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0735-asteroid-collision) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Greedy
 |  |
@@ -194,6 +196,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0067-add-binary) |
+| [0735-asteroid-collision](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2639-separate-the-digits-in-an-array](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2639-separate-the-digits-in-an-array) |
