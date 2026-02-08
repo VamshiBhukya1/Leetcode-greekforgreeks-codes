@@ -163,6 +163,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0901-online-stock-span) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Greedy
 |  |
@@ -175,6 +176,7 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0402-remove-k-digits) |
+| [0901-online-stock-span](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0901-online-stock-span) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Recursion
 |  |
@@ -253,4 +255,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0239-sliding-window-maximum) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
