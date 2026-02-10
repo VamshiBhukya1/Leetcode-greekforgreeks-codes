@@ -12,6 +12,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0735-asteroid-collision) |
 | [0841-shortest-distance-to-a-character](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0841-shortest-distance-to-a-character) |
+| [1004-max-consecutive-ones-iii](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-largest-perimeter-triangle](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1018-largest-perimeter-triangle) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -195,6 +196,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1004-max-consecutive-ones-iii) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1430-find-the-k-beauty-of-a-number) |
 ## Simulation
 |  |
@@ -227,6 +229,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1004-max-consecutive-ones-iii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Heap (Priority Queue)
@@ -241,6 +244,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1004-max-consecutive-ones-iii) |
 | [2714-left-and-right-sum-differences](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2714-left-and-right-sum-differences) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Number Theory
