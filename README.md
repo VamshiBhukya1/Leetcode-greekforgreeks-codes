@@ -53,6 +53,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0166-fraction-to-recurring-decimal) |
 | [0409-longest-palindrome](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1248-count-number-of-nice-subarrays) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -102,6 +103,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0166-fraction-to-recurring-decimal) |
 | [0402-remove-k-digits](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0424-longest-repeating-character-replacement) |
 | [0504-base-7](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0504-base-7) |
 | [0556-next-greater-element-iii](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0556-next-greater-element-iii) |
 | [0841-shortest-distance-to-a-character](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0841-shortest-distance-to-a-character) |
@@ -200,6 +202,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1004-max-consecutive-ones-iii) |
