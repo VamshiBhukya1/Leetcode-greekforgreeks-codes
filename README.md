@@ -12,6 +12,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0735-asteroid-collision) |
 | [0841-shortest-distance-to-a-character](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0841-shortest-distance-to-a-character) |
+| [0930-binary-subarrays-with-sum](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-largest-perimeter-triangle](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1018-largest-perimeter-triangle) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
@@ -51,6 +52,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0166-fraction-to-recurring-decimal) |
 | [0409-longest-palindrome](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0409-longest-palindrome) |
+| [0930-binary-subarrays-with-sum](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0930-binary-subarrays-with-sum) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1904-second-largest-digit-in-a-string](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1904-second-largest-digit-in-a-string) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1933-number-of-different-integers-in-a-string) |
@@ -196,6 +198,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0643-maximum-average-subarray-i) |
+| [0930-binary-subarrays-with-sum](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1004-max-consecutive-ones-iii) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1430-find-the-k-beauty-of-a-number) |
 ## Simulation
@@ -244,6 +247,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1004-max-consecutive-ones-iii) |
 | [2714-left-and-right-sum-differences](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2714-left-and-right-sum-differences) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/3616-make-array-elements-equal-to-zero) |
