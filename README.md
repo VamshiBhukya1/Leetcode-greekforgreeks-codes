@@ -8,6 +8,7 @@
 | [0078-subsets](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0120-triangle) |
 | [0239-sliding-window-maximum](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0239-sliding-window-maximum) |
+| [0455-assign-cookies](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0735-asteroid-collision) |
@@ -146,6 +147,7 @@
 | [0061-rotate-list](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0160-intersection-of-two-linked-lists) |
+| [0455-assign-cookies](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0455-assign-cookies) |
 | [0556-next-greater-element-iii](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0556-next-greater-element-iii) |
 | [0841-shortest-distance-to-a-character](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0841-shortest-distance-to-a-character) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -158,6 +160,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0148-sort-list) |
+| [0455-assign-cookies](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0455-assign-cookies) |
 | [1018-largest-perimeter-triangle](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1018-largest-perimeter-triangle) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -181,6 +184,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0409-longest-palindrome) |
+| [0455-assign-cookies](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0605-can-place-flowers) |
 | [1018-largest-perimeter-triangle](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1018-largest-perimeter-triangle) |
 ## Monotonic Stack
