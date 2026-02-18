@@ -13,6 +13,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0735-asteroid-collision) |
 | [0841-shortest-distance-to-a-character](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0841-shortest-distance-to-a-character) |
+| [0860-lemonade-change](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-largest-perimeter-triangle](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1018-largest-perimeter-triangle) |
@@ -186,6 +187,7 @@
 | [0409-longest-palindrome](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0605-can-place-flowers) |
+| [0860-lemonade-change](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0860-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1018-largest-perimeter-triangle) |
 ## Monotonic Stack
 |  |
