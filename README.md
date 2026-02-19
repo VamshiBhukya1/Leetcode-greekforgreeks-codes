@@ -111,6 +111,7 @@
 | [0504-base-7](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0504-base-7) |
 | [0556-next-greater-element-iii](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0556-next-greater-element-iii) |
 | [0678-valid-parenthesis-string](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0678-valid-parenthesis-string) |
+| [0696-count-binary-substrings](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0696-count-binary-substrings) |
 | [0841-shortest-distance-to-a-character](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0841-shortest-distance-to-a-character) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -151,6 +152,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0455-assign-cookies](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0455-assign-cookies) |
 | [0556-next-greater-element-iii](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0556-next-greater-element-iii) |
+| [0696-count-binary-substrings](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0696-count-binary-substrings) |
 | [0841-shortest-distance-to-a-character](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0841-shortest-distance-to-a-character) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Divide and Conquer
