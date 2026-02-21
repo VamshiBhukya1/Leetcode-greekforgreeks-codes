@@ -3,12 +3,8 @@ class Solution {
         int cn=0;
         for(int i=left;i<=right;i++){
             String a=Integer.toBinaryString(i);
-            int c=0;
-            for(int j=0;j<a.length();j++){
-                if(a.charAt(j)=='1'){
-                    c++;
-                }
-            }
+            int c=Integer.bitCount(i);
+           
                 if(Prime(c)==true){
                     cn++;
                 }
