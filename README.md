@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0120-triangle) |
+| [0135-candy](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0135-candy) |
 | [0239-sliding-window-maximum](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0605-can-place-flowers) |
@@ -188,6 +189,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0455-assign-cookies) |
