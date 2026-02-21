@@ -91,6 +91,7 @@
 | [0231-power-of-two](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0231-power-of-two) |
 | [0504-base-7](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0504-base-7) |
 | [0556-next-greater-element-iii](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0556-next-greater-element-iii) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1018-largest-perimeter-triangle](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1018-largest-perimeter-triangle) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1248-count-number-of-nice-subarrays) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -250,6 +251,7 @@
 | [0231-power-of-two](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0338-counting-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Backtracking
 |  |
 | ------- |
