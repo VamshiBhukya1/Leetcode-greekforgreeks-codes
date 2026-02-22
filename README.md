@@ -261,6 +261,7 @@
 | [0338-counting-bits](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0338-counting-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0868-binary-gap](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0868-binary-gap) |
 ## Backtracking
 |  |
 | ------- |
