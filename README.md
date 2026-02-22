@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0001-two-sum) |
+| [0056-merge-intervals](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0120-triangle) |
@@ -166,6 +167,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0455-assign-cookies) |
 | [1018-largest-perimeter-triangle](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1018-largest-perimeter-triangle) |
