@@ -65,6 +65,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1248-count-number-of-nice-subarrays) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1904-second-largest-digit-in-a-string](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1904-second-largest-digit-in-a-string) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -121,6 +122,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1764-maximum-repeating-substring](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1764-maximum-repeating-substring) |
 | [1904-second-largest-digit-in-a-string](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1904-second-largest-digit-in-a-string) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1933-number-of-different-integers-in-a-string) |
@@ -262,6 +264,7 @@
 | [0693-binary-number-with-alternating-bits](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0868-binary-gap) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -310,4 +313,12 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0901-online-stock-span) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
