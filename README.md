@@ -188,6 +188,7 @@
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0402-remove-k-digits](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0735-asteroid-collision) |
@@ -321,4 +322,16 @@
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/VamshiBhukya1/Leetcode-greekforgreeks-codes/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
